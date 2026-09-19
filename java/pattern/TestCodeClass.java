@@ -1,6 +1,6 @@
 package com.demo.user.stream.pattern;
 
-public class TestClass {
+public class TestCodeClass {
 
   static void main() {
     // Order 2: A FarmHouse with double extra cheese and mushrooms
