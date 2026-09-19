@@ -1,4 +1,4 @@
-package com.demo.user.stream.pattern;
+package com.demo.user.stream.pattern.decorator;
 
 import java.util.Hashtable;
 import java.util.Map;

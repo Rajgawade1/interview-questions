@@ -1,4 +1,4 @@
-package com.demo.user.stream.pattern;
+package com.demo.user.stream.pattern.decorator;
 
 public class ExtraCheesePizza extends PizzaDecorator {
 
