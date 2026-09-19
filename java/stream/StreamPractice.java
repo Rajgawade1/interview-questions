@@ -1,4 +1,4 @@
-package com.demo.user.stream;
+package com.demo.user.stream.stream;
 
 import java.util.*;
 import java.util.stream.Collectors;
